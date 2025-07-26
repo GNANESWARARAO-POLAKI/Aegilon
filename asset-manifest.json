@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Aegilon/static/css/main.dab3514f.css",
-    "main.js": "/Aegilon/static/js/main.dc183a27.js",
+    "main.css": "/Aegilon/static/css/main.2c02017d.css",
+    "main.js": "/Aegilon/static/js/main.9bd84782.js",
     "index.html": "/Aegilon/index.html",
-    "main.dab3514f.css.map": "/Aegilon/static/css/main.dab3514f.css.map",
-    "main.dc183a27.js.map": "/Aegilon/static/js/main.dc183a27.js.map"
+    "main.2c02017d.css.map": "/Aegilon/static/css/main.2c02017d.css.map",
+    "main.9bd84782.js.map": "/Aegilon/static/js/main.9bd84782.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab3514f.css",
-    "static/js/main.dc183a27.js"
+    "static/css/main.2c02017d.css",
+    "static/js/main.9bd84782.js"
   ]
 }
